@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.rate {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.rateClicked {
+  background-color: black;
+}
+
+span {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+button{
+  display: block;
+  margin: 10px auto;
+}
+
